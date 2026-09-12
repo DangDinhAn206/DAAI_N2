@@ -1,0 +1,81 @@
+﻿shipper_id,shipper_name,shipper_company,shipper_vehicle,shipper_experience_years,shipper_rating,delivery_success_rate,join_date,shipper_phone,shipper_age,shipper_marital_status,shipper_education,city,region,district
+SHP00001,Bùi Văn Long,Viettel Post,Truck,7,5.0,99.0,2026-03-17,991476209,27,Married,Bachelor,Phan Rang-Thap Cham,Central,District #25
+SHP00002,Trần Anh Khánh,J&T Express,Van,2,4.9,98.4,2025-01-29,959297982,41,Married,Bachelor,Phan Thiet,Central,District #29
+SHP00003,Hoàng Thị Khánh,GHN,Motorbike,10,4.8,95.1,2019-11-13,927142576,30,Single,High School,Long Xuyen,West,District #34
+SHP00004,Trần Đức Vy,Viettel Post,Truck,8,5.0,96.3,2025-12-22,971617475,42,Married,College,Kon Tum,Central,District #27
+SHP00005,Trần Minh Cường,BEST Express,Truck,10,4.6,95.7,2019-12-19,979196342,31,Married,College,Da Nang,Central,District #23
+SHP00006,Võ Thanh Nam,J&T Express,Van,9,4.7,96.0,2024-02-02,951235544,41,Married,Bachelor,Hoi An,Central,District #29
+SHP00007,Hoàng Anh Hùng,BEST Express,Truck,6,4.4,99.6,2024-06-06,987597617,34,Single,High School,Phu Ly,East,District #09
+SHP00008,Phạm Thanh Trang,BEST Express,Truck,5,4.7,95.9,2022-03-11,914419500,34,Married,Bachelor,Lao Cai,East,District #16
+SHP00009,Nguyễn Thanh Bình,BEST Express,Truck,12,4.3,97.4,2022-10-06,909770946,53,Married,College,Phu Ly,East,District #10
+SHP00010,Bùi Đức Bình,Ahamove,Motorbike,8,4.5,99.5,2022-08-10,921691981,31,Single,Bachelor,Tra Vinh,West,District #37
+SHP00011,Võ Thị Hùng,J&T Express,Van,5,4.6,98.4,2023-03-23,940850445,43,Single,High School,Son Tay,East,District #03
+SHP00012,Nguyễn Thị Bình,GHTK,Motorbike,6,4.7,97.2,2023-10-01,972210652,49,Single,Bachelor,Ha Long,East,District #07
+SHP00013,Lê Anh Hà,BEST Express,Truck,10,4.2,97.7,2025-10-28,984678290,39,Single,College,Tam Ky,Central,District #23
+SHP00014,Lê Gia Vy,J&T Express,Van,8,4.8,96.3,2018-02-10,971290529,50,Single,Bachelor,Phan Thiet,Central,District #32
+SHP00015,Bùi Văn Hùng,Viettel Post,Truck,1,4.3,98.8,2024-12-22,946414069,48,Single,Bachelor,Son Tay,East,District #06
+SHP00016,Bùi Văn Trang,Viettel Post,Truck,6,4.9,96.6,2020-01-05,926827357,55,Married,High School,Hue,Central,District #25
+SHP00017,Bùi Thị Hùng,GHN,Motorbike,11,5.0,98.1,2025-08-24,908818611,51,Married,College,Hue,Central,District #20
+SHP00018,Lê Gia Phong,GHN,Motorbike,7,4.3,98.5,2020-08-27,902541877,52,Single,College,Uong Bi,East,District #11
+SHP00019,Đặng Văn Nam,GHN,Motorbike,2,4.8,96.5,2023-11-03,991210929,46,Single,Bachelor,Quy Nhon,Central,District #21
+SHP00020,Hoàng Đức Giang,Ninja Van,Van,6,5.0,95.7,2025-03-30,903070385,53,Married,High School,Phan Rang-Thap Cham,Central,District #30
+SHP00021,Lê Quốc Trang,GHN,Motorbike,12,4.3,99.7,2023-12-12,960718218,48,Married,Bachelor,Tuy Hoa,Central,District #32
+SHP00022,Lê Thanh Nam,Ahamove,Motorbike,7,4.8,99.4,2018-06-29,988804431,54,Single,Bachelor,Cam Pha,East,District #19
+SHP00023,Bùi Văn Hà,Shopee Express,Motorbike,6,4.6,95.9,2023-11-06,928729869,36,Single,College,Uong Bi,East,District #06
+SHP00024,Hoàng Thị Nam,Ninja Van,Van,3,4.5,96.4,2023-07-11,993822938,55,Married,High School,Bac Giang,East,District #15
+SHP00025,Trần Đức Cường,GHTK,Motorbike,10,4.6,98.6,2021-05-19,922791841,33,Single,High School,Kon Tum,Central,District #25
+SHP00026,Nguyễn Thanh Hùng,Ninja Van,Van,11,4.3,96.0,2025-11-16,902981241,37,Single,High School,Lao Cai,East,District #16
+SHP00027,Hoàng Thị Giang,Ninja Van,Van,9,4.4,96.8,2018-02-04,902650261,47,Married,High School,Viet Tri,East,District #11
+SHP00028,Hoàng Đức Quân,GHTK,Motorbike,8,4.6,98.8,2023-06-05,983104398,29,Single,College,Cam Pha,East,District #06
+SHP00029,Võ Quốc Hùng,Viettel Post,Truck,8,4.3,98.2,2023-03-28,938481552,36,Single,College,Dong Hoi,Central,District #30
+SHP00030,Hoàng Văn Trang,Viettel Post,Truck,4,4.2,96.4,2019-04-11,956294981,46,Single,High School,Da Lat,West,District #33
+SHP00031,Lê Thanh Nam,Viettel Post,Truck,7,4.4,96.0,2021-11-19,956649092,53,Single,Bachelor,Kon Tum,Central,District #30
+SHP00032,Đặng Văn Nam,BEST Express,Truck,6,4.8,97.1,2023-06-14,961242116,24,Single,High School,Bac Ninh,East,District #04
+SHP00033,Võ Gia Giang,J&T Express,Van,9,5.0,99.9,2022-02-07,996960250,29,Married,High School,Viet Tri,East,District #09
+SHP00034,Đặng Thị Vy,Ninja Van,Van,7,4.7,97.4,2018-08-28,983912150,47,Married,College,Nha Trang,Central,District #28
+SHP00035,Trần Văn Hùng,BEST Express,Truck,2,4.7,98.9,2020-05-03,986963662,54,Married,High School,Tam Ky,Central,District #32
+SHP00036,Phạm Gia An,Ninja Van,Van,3,4.7,96.5,2022-01-21,974640157,34,Single,Bachelor,Nha Trang,Central,District #29
+SHP00037,Phạm Quốc Dũng,GHN,Motorbike,9,4.3,96.7,2020-07-16,936758027,40,Single,Bachelor,Quang Ngai,Central,District #21
+SHP00038,Bùi Quốc Trang,Ahamove,Motorbike,3,4.4,99.7,2019-10-25,961999001,53,Single,College,Dong Hoi,Central,District #26
+SHP00039,Phạm Đức Giang,Ahamove,Motorbike,8,4.9,97.3,2021-08-03,954844436,31,Single,High School,Nam Dinh,East,District #08
+SHP00040,Phạm Gia An,Ninja Van,Van,12,4.4,98.9,2023-10-04,938877986,36,Married,High School,Soc Trang,West,District #34
+SHP00041,Phạm Thị Hà,J&T Express,Van,12,4.9,97.6,2023-03-21,927179809,38,Married,College,Vinh Long,West,District #36
+SHP00042,Nguyễn Quốc Trang,Ninja Van,Van,7,5.0,99.8,2019-11-02,986734203,51,Married,High School,Nha Trang,Central,District #31
+SHP00043,Bùi Thị Trang,Ninja Van,Van,2,4.6,97.0,2021-02-21,912757576,38,Married,Bachelor,Soc Trang,West,District #34
+SHP00044,Nguyễn Thị Cường,Ninja Van,Van,12,5.0,95.3,2018-06-10,920549207,34,Married,Bachelor,Da Nang,Central,District #21
+SHP00045,Nguyễn Thanh Giang,Ahamove,Motorbike,7,4.8,95.3,2018-01-12,995279807,27,Married,Bachelor,Son Tay,East,District #07
+SHP00046,Nguyễn Đức Cường,GHTK,Motorbike,8,5.0,99.6,2023-07-07,919341832,34,Married,High School,Bac Ninh,East,District #03
+SHP00047,Phạm Quốc Sơn,Shopee Express,Motorbike,10,4.6,98.3,2022-01-09,926716571,42,Single,High School,Long Xuyen,West,District #35
+SHP00048,Nguyễn Thị Vy,Shopee Express,Motorbike,9,4.9,98.8,2024-12-01,946448535,51,Married,Bachelor,Bac Lieu,West,District #39
+SHP00049,Đặng Đức Dũng,Ahamove,Motorbike,6,4.8,98.0,2023-04-11,944279003,24,Married,Bachelor,Vinh Long,West,District #36
+SHP00050,Hoàng Gia Hùng,GHTK,Motorbike,12,4.4,95.2,2019-05-27,990945189,49,Single,College,Tuy Hoa,Central,District #24
+SHP00051,Đặng Anh Hà,J&T Express,Van,9,4.6,95.1,2019-02-16,980366393,42,Single,College,Viet Tri,East,District #15
+SHP00052,Phạm Anh Hùng,Ninja Van,Van,4,4.7,99.3,2025-06-27,933172868,38,Married,College,Phu Ly,East,District #04
+SHP00053,Nguyễn Đức Bình,GHTK,Motorbike,8,4.7,96.8,2018-02-20,943102331,54,Single,Bachelor,Da Nang,Central,District #30
+SHP00054,Nguyễn Quốc Phong,BEST Express,Truck,9,4.7,97.8,2023-03-14,998883340,50,Married,High School,Bac Giang,East,District #01
+SHP00055,Hoàng Văn Trang,J&T Express,Van,5,4.2,95.8,2022-09-03,900482857,34,Single,Bachelor,Thai Nguyen,East,District #06
+SHP00056,Nguyễn Minh Long,Ninja Van,Van,8,4.9,96.6,2023-12-09,951583055,55,Married,High School,My Tho,West,District #35
+SHP00057,Võ Thị Sơn,GHTK,Motorbike,7,4.6,97.9,2024-02-09,937417919,26,Single,Bachelor,Cam Pha,East,District #05
+SHP00058,Bùi Thanh Hùng,GHN,Motorbike,11,4.6,98.3,2018-02-11,956897812,39,Married,College,Uong Bi,East,District #07
+SHP00059,Nguyễn Minh Quân,J&T Express,Van,7,5.0,98.9,2021-05-08,907366403,55,Single,Bachelor,Bac Lieu,West,District #37
+SHP00060,Bùi Thanh Cường,GHTK,Motorbike,11,4.7,95.4,2022-11-21,904584927,39,Married,Bachelor,Uong Bi,East,District #03
+SHP00061,Lê Anh Quân,GHTK,Motorbike,1,4.8,95.1,2019-12-17,956517585,32,Single,High School,Tam Ky,Central,District #26
+SHP00062,Trần Văn Sơn,Viettel Post,Truck,1,4.3,98.7,2025-12-16,954653513,47,Single,Bachelor,Tuy Hoa,Central,District #23
+SHP00063,Nguyễn Thanh Vy,BEST Express,Truck,8,4.6,96.2,2019-04-28,922698939,38,Married,Bachelor,Ninh Binh,East,District #14
+SHP00064,Nguyễn Gia Quân,J&T Express,Van,12,4.8,99.3,2018-07-24,937230018,39,Married,Bachelor,My Tho,West,District #33
+SHP00065,Nguyễn Quốc Trang,Ahamove,Motorbike,2,4.8,97.9,2023-06-24,906371317,39,Married,High School,Dong Hoi,Central,District #25
+SHP00066,Lê Thị Phong,Ninja Van,Van,8,4.6,99.0,2022-08-30,943623439,49,Married,Bachelor,Hanoi,East,District #01
+SHP00067,Nguyễn Quốc Hà,Viettel Post,Truck,5,4.7,99.0,2023-09-13,947066875,47,Single,Bachelor,Phu Ly,East,District #13
+SHP00068,Trần Quốc Long,Ninja Van,Van,2,4.6,99.8,2025-10-13,924139334,47,Single,College,Viet Tri,East,District #11
+SHP00069,Hoàng Thị Giang,GHN,Motorbike,10,4.5,98.5,2019-01-21,968458783,34,Single,College,Cam Pha,East,District #02
+SHP00070,Phạm Anh Cường,Viettel Post,Truck,9,4.3,99.4,2024-10-29,913921412,55,Single,College,Tam Ky,Central,District #21
+SHP00071,Bùi Thị Hà,Ahamove,Motorbike,12,4.7,95.9,2023-04-22,975678108,34,Married,High School,Nha Trang,Central,District #24
+SHP00072,Trần Đức Hùng,Viettel Post,Truck,12,4.6,99.4,2023-07-02,987226165,51,Single,College,Vung Tau,West,District #33
+SHP00073,Phạm Văn Phong,GHTK,Motorbike,8,4.9,98.6,2023-10-28,982262009,51,Married,College,Son Tay,East,District #08
+SHP00074,Lê Minh Phong,Shopee Express,Motorbike,10,4.5,96.8,2022-05-13,969920920,52,Married,High School,Hoi An,Central,District #20
+SHP00075,Phạm Anh Hùng,J&T Express,Van,11,4.3,96.7,2024-10-03,989436113,33,Married,Bachelor,My Tho,West,District #38
+SHP00076,Trần Thanh Long,BEST Express,Truck,10,4.7,95.1,2020-09-25,933140008,29,Married,Bachelor,Ninh Binh,East,District #01
+SHP00077,Trần Văn Giang,BEST Express,Truck,9,4.7,99.4,2019-11-11,931398461,38,Married,Bachelor,Quy Nhon,Central,District #23
+SHP00078,Đặng Văn Bình,Shopee Express,Motorbike,11,5.0,96.8,2025-09-25,999125359,29,Single,High School,Hoi An,Central,District #25
+SHP00079,Đặng Thanh An,Shopee Express,Motorbike,11,4.5,95.9,2018-09-09,993275153,46,Married,Bachelor,Ho Chi Minh City,West,District #35
+SHP00080,Lê Minh Khánh,GHN,Motorbike,11,4.6,95.3,2018-03-11,944508698,55,Single,Bachelor,Hoi An,Central,District #26
