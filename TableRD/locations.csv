@@ -1,0 +1,535 @@
+zip,city,district,region
+1.0,Da Lat,District #34,West
+2.0,Rach Gia,District #34,West
+3.0,Long Xuyen,District #34,West
+4.0,Soc Trang,District #34,West
+5.0,My Tho,District #34,West
+7.0,Can Tho,District #34,West
+9.0,Vinh Long,District #34,West
+10.0,Tra Vinh,District #34,West
+12.0,Rach Gia,District #35,West
+14.0,Ca Mau,District #39,West
+15.0,Vinh Long,District #39,West
+16.0,My Tho,District #38,West
+17.0,Vung Tau,District #36,West
+18.0,Soc Trang,District #37,West
+19.0,Bac Lieu,District #35,West
+20.0,Bien Hoa,District #36,West
+22.0,Vung Tau,District #35,West
+26.0,Vinh Long,District #36,West
+27.0,Tam Ky,District #20,Central
+28.0,Da Lat,District #35,West
+29.0,Vinh Long,District #35,West
+31.0,Can Tho,District #35,West
+32.0,Bac Lieu,District #37,West
+34.0,Buon Ma Thuot,District #35,West
+37.0,My Tho,District #35,West
+39.0,Pleiku,District #35,West
+40.0,Buon Ma Thuot,District #36,West
+41.0,Ninh Binh,District #10,East
+42.0,Son Tay,District #10,East
+43.0,Nam Dinh,District #10,East
+44.0,Ca Mau,District #35,West
+45.0,Bac Ninh,District #12,East
+47.0,Tra Vinh,District #35,West
+48.0,Bien Hoa,District #35,West
+49.0,Ho Chi Minh City,District #35,West
+51.0,Long Xuyen,District #35,West
+53.0,Viet Tri,District #10,East
+56.0,Tra Vinh,District #33,West
+57.0,Rach Gia,District #37,West
+58.0,Tra Vinh,District #36,West
+59.0,Quy Nhon,District #28,Central
+60.0,Da Nang,District #28,Central
+61.0,Ben Tre,District #37,West
+63.0,Ca Mau,District #33,West
+65.0,Ben Tre,District #35,West
+67.0,Phan Thiet,District #22,Central
+71.0,Can Tho,District #33,West
+73.0,My Tho,District #33,West
+74.0,Buon Ma Thuot,District #33,West
+77.0,Ben Tre,District #34,West
+84.0,Ha Long,District #08,East
+97.0,Hanoi,District #10,East
+98.0,Phu Ly,District #10,East
+100.0,Rach Gia,District #33,West
+116.0,Phan Thiet,District #24,Central
+119.0,Phan Rang-Thap Cham,District #24,Central
+121.0,Nha Trang,District #24,Central
+152.0,Bac Ninh,District #07,East
+158.0,Son Tay,District #02,East
+160.0,Nha Trang,District #28,Central
+164.0,Phan Thiet,District #32,Central
+165.0,Quang Ngai,District #32,Central
+166.0,Quy Nhon,District #32,Central
+188.0,Quy Nhon,District #23,Central
+197.0,Can Tho,District #39,West
+198.0,Bac Lieu,District #34,West
+199.0,Long Xuyen,District #39,West
+501.0,Bac Giang,District #03,East
+544.0,Phu Ly,District #03,East
+1001.0,Bac Ninh,District #02,East
+1002.0,Cam Pha,District #02,East
+1003.0,Uong Bi,District #02,East
+1004.0,Ninh Binh,District #02,East
+1005.0,Bac Giang,District #02,East
+1011.0,Ninh Binh,District #01,East
+1012.0,Hai Phong,District #02,East
+1013.0,Thai Nguyen,District #02,East
+1020.0,Viet Tri,District #02,East
+1026.0,Hai Phong,District #01,East
+1027.0,Hanoi,District #02,East
+1029.0,Lao Cai,District #01,East
+1033.0,Lao Cai,District #02,East
+1035.0,Ha Long,District #02,East
+1070.0,Phu Ly,District #01,East
+1077.0,Phu Ly,District #02,East
+1084.0,Uong Bi,District #01,East
+1104.0,Nam Dinh,District #02,East
+1201.0,Bac Ninh,District #01,East
+1202.0,Nam Dinh,District #01,East
+1203.0,Ha Long,District #01,East
+1224.0,Thai Nguyen,District #01,East
+1225.0,Son Tay,District #01,East
+1229.0,Bac Giang,District #01,East
+1236.0,Hanoi,District #01,East
+1258.0,Cam Pha,District #01,East
+1259.0,Viet Tri,District #01,East
+6807.0,Viet Tri,District #03,East
+6820.0,Lao Cai,District #03,East
+6830.0,Hai Phong,District #03,East
+6831.0,Ninh Binh,District #03,East
+6856.0,Ha Long,District #03,East
+6870.0,Cam Pha,District #03,East
+6903.0,Bac Ninh,District #03,East
+6905.0,Hanoi,District #03,East
+6907.0,Nam Dinh,District #03,East
+6914.0,Son Tay,District #03,East
+7001.0,Ninh Binh,District #04,East
+7005.0,Uong Bi,District #03,East
+7008.0,Phu Ly,District #04,East
+7015.0,Thai Nguyen,District #03,East
+7016.0,Son Tay,District #04,East
+7018.0,Hanoi,District #04,East
+7023.0,Bac Ninh,District #04,East
+7027.0,Cam Pha,District #04,East
+7033.0,Viet Tri,District #04,East
+7036.0,Uong Bi,District #04,East
+7040.0,Thai Nguyen,District #04,East
+7041.0,Hai Phong,District #04,East
+7050.0,Bac Giang,District #04,East
+7051.0,Nam Dinh,District #04,East
+7067.0,Ha Long,District #04,East
+7076.0,Lao Cai,District #04,East
+13026.0,Lao Cai,District #06,East
+13034.0,Son Tay,District #06,East
+13065.0,Thai Nguyen,District #06,East
+13146.0,Uong Bi,District #06,East
+13148.0,Hanoi,District #06,East
+13160.0,Hai Phong,District #06,East
+14001.0,Ninh Binh,District #06,East
+14004.0,Nam Dinh,District #06,East
+14006.0,Bac Giang,District #06,East
+14010.0,Viet Tri,District #06,East
+14024.0,Ha Long,District #06,East
+14026.0,Bac Ninh,District #06,East
+14027.0,Cam Pha,District #06,East
+14047.0,Phu Ly,District #06,East
+15001.0,Ninh Binh,District #13,East
+15003.0,Lao Cai,District #13,East
+15004.0,Nam Dinh,District #13,East
+15006.0,Hai Phong,District #13,East
+15007.0,Cam Pha,District #13,East
+15009.0,Bac Giang,District #13,East
+15010.0,Thai Nguyen,District #13,East
+15012.0,Hanoi,District #13,East
+15014.0,Phu Ly,District #13,East
+15017.0,Viet Tri,District #13,East
+15018.0,Bac Ninh,District #13,East
+15028.0,Son Tay,District #13,East
+15038.0,Ha Long,District #13,East
+15045.0,Uong Bi,District #13,East
+15310.0,Nam Dinh,District #15,East
+15352.0,Bac Giang,District #15,East
+15376.0,Uong Bi,District #15,East
+15377.0,Bac Ninh,District #15,East
+15533.0,Bac Giang,District #05,East
+16113.0,Hanoi,District #14,East
+16114.0,Phu Ly,District #14,East
+16121.0,Son Tay,District #14,East
+16125.0,Nam Dinh,District #14,East
+16133.0,Hai Phong,District #14,East
+16137.0,Bac Giang,District #14,East
+16145.0,Uong Bi,District #14,East
+16148.0,Viet Tri,District #14,East
+16161.0,Thai Nguyen,District #14,East
+16689.0,Thai Nguyen,District #05,East
+16691.0,Nam Dinh,District #05,East
+17001.0,Phu Ly,District #05,East
+17006.0,Son Tay,District #05,East
+17008.0,Hanoi,District #05,East
+17012.0,Lao Cai,District #05,East
+17013.0,Viet Tri,District #05,East
+17014.0,Ha Long,District #05,East
+17016.0,Uong Bi,District #05,East
+17020.0,Hai Phong,District #05,East
+17027.0,Ninh Binh,District #05,East
+17038.0,Cam Pha,District #05,East
+17080.0,Bac Ninh,District #05,East
+20001.0,Viet Tri,District #07,East
+20002.0,Uong Bi,District #07,East
+20003.0,Thai Nguyen,District #07,East
+20004.0,Hai Phong,District #07,East
+20007.0,Phu Ly,District #07,East
+20009.0,Cam Pha,District #07,East
+20010.0,Ninh Binh,District #07,East
+20013.0,Lao Cai,District #07,East
+20016.0,Son Tay,District #07,East
+20017.0,Ha Long,District #07,East
+20020.0,Bac Giang,District #07,East
+20022.0,Nam Dinh,District #07,East
+20029.0,Hanoi,District #07,East
+23821.0,Uong Bi,District #08,East
+23827.0,Hai Phong,District #08,East
+23828.0,Cam Pha,District #08,East
+23829.0,Bac Ninh,District #08,East
+23837.0,Bac Giang,District #08,East
+23843.0,Nam Dinh,District #08,East
+23845.0,Son Tay,District #08,East
+23867.0,Phu Ly,District #08,East
+23873.0,Viet Tri,District #08,East
+23879.0,Lao Cai,District #08,East
+23889.0,Hanoi,District #08,East
+23938.0,Thai Nguyen,District #08,East
+24086.0,Viet Tri,District #15,East
+24093.0,Son Tay,District #15,East
+24120.0,Ninh Binh,District #08,East
+24136.0,Cam Pha,District #15,East
+24147.0,Lao Cai,District #15,East
+24150.0,Phu Ly,District #15,East
+24167.0,Hai Phong,District #15,East
+24201.0,Thai Nguyen,District #19,East
+24202.0,Ha Long,District #19,East
+24203.0,Cam Pha,District #19,East
+24205.0,Bac Giang,District #19,East
+24210.0,Ninh Binh,District #19,East
+24211.0,Lao Cai,District #19,East
+24212.0,Bac Ninh,District #19,East
+24215.0,Viet Tri,District #19,East
+24216.0,Son Tay,District #19,East
+24217.0,Hanoi,District #19,East
+24219.0,Phu Ly,District #19,East
+24239.0,Hai Phong,District #19,East
+24245.0,Uong Bi,District #19,East
+24256.0,Nam Dinh,District #19,East
+24312.0,Ninh Binh,District #15,East
+24322.0,Hanoi,District #15,East
+24604.0,Thai Nguyen,District #15,East
+24613.0,Ha Long,District #15,East
+27013.0,Viet Tri,District #11,East
+27014.0,Phu Ly,District #11,East
+27028.0,Uong Bi,District #11,East
+27054.0,Bac Ninh,District #11,East
+27294.0,Bac Giang,District #11,East
+27295.0,Thai Nguyen,District #11,East
+27351.0,Cam Pha,District #11,East
+27374.0,Nam Dinh,District #11,East
+28009.0,Hai Phong,District #11,East
+28016.0,Son Tay,District #11,East
+28023.0,Ninh Binh,District #11,East
+28033.0,Ha Long,District #11,East
+28036.0,Hanoi,District #11,East
+28038.0,Lao Cai,District #11,East
+28902.0,Thai Nguyen,District #09,East
+28904.0,Hanoi,District #09,East
+28909.0,Son Tay,District #09,East
+30002.0,Cam Pha,District #09,East
+30003.0,Ninh Binh,District #09,East
+30004.0,Nam Dinh,District #09,East
+30005.0,Bac Ninh,District #09,East
+30008.0,Phu Ly,District #09,East
+30009.0,Lao Cai,District #09,East
+30011.0,Hai Phong,District #09,East
+30022.0,Bac Giang,District #09,East
+30024.0,Ha Long,District #09,East
+30032.0,Uong Bi,District #09,East
+30037.0,Viet Tri,District #09,East
+30411.0,Hai Phong,District #12,East
+31001.0,Son Tay,District #12,East
+31010.0,Ninh Binh,District #12,East
+31011.0,Uong Bi,District #12,East
+31015.0,Thai Nguyen,District #12,East
+31037.0,Cam Pha,District #12,East
+31071.0,Hanoi,District #12,East
+31072.0,Viet Tri,District #12,East
+31077.0,Phu Ly,District #12,East
+31501.0,Bac Giang,District #12,East
+31512.0,Ha Long,District #12,East
+31542.0,Nam Dinh,District #12,East
+31544.0,Lao Cai,District #12,East
+32780.0,Bac Giang,District #10,East
+32783.0,Uong Bi,District #10,East
+32902.0,Ha Long,District #10,East
+32903.0,Hai Phong,District #10,East
+32904.0,Lao Cai,District #10,East
+32905.0,Cam Pha,District #10,East
+32910.0,Thai Nguyen,District #10,East
+32927.0,Bac Ninh,District #10,East
+35441.0,Kon Tum,District #24,Central
+35442.0,Quang Ngai,District #24,Central
+35448.0,Da Nang,District #24,Central
+35460.0,Dong Hoi,District #24,Central
+35464.0,Hoi An,District #24,Central
+35477.0,Tam Ky,District #24,Central
+36446.0,Hue,District #24,Central
+36533.0,Tuy Hoa,District #24,Central
+36553.0,Quy Nhon,District #24,Central
+37501.0,Kon Tum,District #25,Central
+37544.0,Hoi An,District #25,Central
+38006.0,Phan Rang-Thap Cham,District #25,Central
+38007.0,Dong Hoi,District #25,Central
+38010.0,Quang Ngai,District #25,Central
+38015.0,Tuy Hoa,District #25,Central
+38017.0,Hue,District #25,Central
+38019.0,Da Nang,District #25,Central
+38024.0,Phan Thiet,District #25,Central
+38025.0,Quy Nhon,District #25,Central
+38027.0,Nha Trang,District #25,Central
+38070.0,Tam Ky,District #25,Central
+40003.0,Lao Cai,District #16,East
+40004.0,Viet Tri,District #16,East
+40006.0,Bac Giang,District #16,East
+40007.0,Uong Bi,District #16,East
+40009.0,Nam Dinh,District #16,East
+40010.0,Ha Long,District #16,East
+40012.0,Hai Phong,District #16,East
+40013.0,Ninh Binh,District #16,East
+40014.0,Son Tay,District #16,East
+40020.0,Hanoi,District #16,East
+40026.0,Thai Nguyen,District #16,East
+40027.0,Cam Pha,District #16,East
+40046.0,Phu Ly,District #16,East
+40056.0,Bac Ninh,District #16,East
+43028.0,Bac Ninh,District #14,East
+43301.0,Ha Long,District #14,East
+43307.0,Cam Pha,District #14,East
+43315.0,Lao Cai,District #14,East
+43316.0,Ninh Binh,District #14,East
+46001.0,Phu Ly,District #17,East
+46011.0,Lao Cai,District #17,East
+46012.0,Bac Giang,District #17,East
+46013.0,Nam Dinh,District #17,East
+46014.0,Cam Pha,District #17,East
+46015.0,Ninh Binh,District #17,East
+46016.0,Son Tay,District #17,East
+46017.0,Viet Tri,District #17,East
+46031.0,Thai Nguyen,District #17,East
+46032.0,Bac Ninh,District #17,East
+46037.0,Hanoi,District #17,East
+46045.0,Hai Phong,District #17,East
+46051.0,Ha Long,District #17,East
+46063.0,Uong Bi,District #17,East
+46303.0,Quy Nhon,District #31,Central
+46311.0,Tuy Hoa,District #31,Central
+46312.0,Hoi An,District #31,Central
+46319.0,Kon Tum,District #31,Central
+46321.0,Phan Thiet,District #31,Central
+46322.0,Phan Rang-Thap Cham,District #31,Central
+46323.0,Nha Trang,District #31,Central
+46325.0,Dong Hoi,District #31,Central
+46375.0,Da Nang,District #31,Central
+46377.0,Hue,District #31,Central
+47964.0,Tam Ky,District #31,Central
+48001.0,Thai Nguyen,District #18,East
+48002.0,Hanoi,District #18,East
+48003.0,Cam Pha,District #18,East
+48004.0,Ninh Binh,District #18,East
+48005.0,Hai Phong,District #18,East
+48006.0,Nam Dinh,District #18,East
+48015.0,Viet Tri,District #18,East
+48027.0,Ha Long,District #18,East
+48028.0,Bac Giang,District #18,East
+48033.0,Phu Ly,District #18,East
+48037.0,Bac Ninh,District #18,East
+48041.0,Lao Cai,District #18,East
+48044.0,Son Tay,District #18,East
+48090.0,Uong Bi,District #18,East
+49728.0,Hoi An,District #26,Central
+49768.0,Kon Tum,District #26,Central
+49793.0,Tuy Hoa,District #26,Central
+49801.0,Quang Ngai,District #26,Central
+49805.0,Quy Nhon,District #26,Central
+49814.0,Phan Rang-Thap Cham,District #26,Central
+49815.0,Tam Ky,District #26,Central
+49817.0,Hue,District #26,Central
+49822.0,Nha Trang,District #26,Central
+49836.0,Phan Thiet,District #26,Central
+49838.0,Da Nang,District #26,Central
+49862.0,Dong Hoi,District #26,Central
+50001.0,Phan Thiet,District #30,Central
+50002.0,Da Nang,District #30,Central
+50003.0,Hue,District #30,Central
+50005.0,Hoi An,District #30,Central
+50006.0,Dong Hoi,District #30,Central
+50008.0,Phan Rang-Thap Cham,District #30,Central
+50010.0,Tuy Hoa,District #30,Central
+50013.0,Nha Trang,District #30,Central
+50020.0,Kon Tum,District #32,Central
+50022.0,Hoi An,District #32,Central
+50023.0,Tam Ky,District #30,Central
+50025.0,Tuy Hoa,District #32,Central
+50027.0,Nha Trang,District #29,Central
+50028.0,Kon Tum,District #30,Central
+50029.0,Dong Hoi,District #32,Central
+50032.0,Quang Ngai,District #30,Central
+50041.0,Quang Ngai,District #27,Central
+50044.0,Quang Ngai,District #29,Central
+50058.0,Tam Ky,District #32,Central
+50071.0,Phan Thiet,District #28,Central
+50101.0,Quang Ngai,District #28,Central
+50104.0,Quy Nhon,District #29,Central
+50116.0,Tuy Hoa,District #29,Central
+50119.0,Tam Ky,District #29,Central
+50120.0,Quy Nhon,District #30,Central
+50217.0,Da Nang,District #32,Central
+50242.0,Hue,District #29,Central
+50268.0,Dong Hoi,District #29,Central
+50274.0,Phan Rang-Thap Cham,District #32,Central
+50277.0,Nha Trang,District #32,Central
+50401.0,Phan Rang-Thap Cham,District #28,Central
+50420.0,Hue,District #28,Central
+50424.0,Dong Hoi,District #28,Central
+50430.0,Tam Ky,District #28,Central
+50435.0,Hoi An,District #28,Central
+50447.0,Tuy Hoa,District #28,Central
+50460.0,Kon Tum,District #28,Central
+50540.0,Hue,District #32,Central
+50601.0,Hoi An,District #27,Central
+50602.0,Tuy Hoa,District #27,Central
+50604.0,Dong Hoi,District #27,Central
+50606.0,Tam Ky,District #27,Central
+50611.0,Kon Tum,District #27,Central
+50612.0,Da Nang,District #27,Central
+50613.0,Nha Trang,District #27,Central
+50614.0,Phan Thiet,District #27,Central
+50619.0,Phan Rang-Thap Cham,District #27,Central
+50621.0,Quy Nhon,District #27,Central
+50634.0,Hue,District #27,Central
+52231.0,Phan Thiet,District #29,Central
+52531.0,Da Nang,District #29,Central
+52540.0,Hoi An,District #29,Central
+52552.0,Kon Tum,District #29,Central
+52562.0,Phan Rang-Thap Cham,District #29,Central
+53140.0,Quang Ngai,District #31,Central
+59001.0,Vung Tau,District #33,West
+59007.0,Vinh Long,District #33,West
+59008.0,Da Lat,District #33,West
+59015.0,Bien Hoa,District #33,West
+59016.0,Bac Lieu,District #33,West
+59022.0,Ho Chi Minh City,District #33,West
+59024.0,Soc Trang,District #33,West
+59029.0,Long Xuyen,District #33,West
+59047.0,Pleiku,District #33,West
+59069.0,Ben Tre,District #33,West
+64728.0,Dong Hoi,District #21,Central
+64738.0,Da Nang,District #21,Central
+64741.0,Quy Nhon,District #21,Central
+64748.0,Nha Trang,District #21,Central
+64750.0,Tam Ky,District #21,Central
+64759.0,Hue,District #21,Central
+64762.0,Tuy Hoa,District #21,Central
+64765.0,Phan Rang-Thap Cham,District #21,Central
+64772.0,Kon Tum,District #21,Central
+64778.0,Phan Thiet,District #21,Central
+64841.0,Quang Ngai,District #21,Central
+64853.0,Hoi An,District #21,Central
+67762.0,Nha Trang,District #20,Central
+69128.0,Quang Ngai,District #20,Central
+69131.0,Dong Hoi,District #20,Central
+69133.0,Hoi An,District #20,Central
+69141.0,Hue,District #20,Central
+69145.0,Phan Thiet,District #20,Central
+69160.0,Quy Nhon,District #20,Central
+69331.0,Da Nang,District #20,Central
+69336.0,Kon Tum,District #20,Central
+73001.0,Tam Ky,District #22,Central
+73005.0,Quy Nhon,District #22,Central
+73015.0,Dong Hoi,District #22,Central
+73017.0,Nha Trang,District #22,Central
+73041.0,Da Nang,District #22,Central
+73062.0,Hue,District #22,Central
+73082.0,Hoi An,District #22,Central
+73301.0,Nha Trang,District #23,Central
+73344.0,Phan Rang-Thap Cham,District #23,Central
+73402.0,Phan Rang-Thap Cham,District #22,Central
+73430.0,Quang Ngai,District #22,Central
+73434.0,Kon Tum,District #22,Central
+73458.0,Tuy Hoa,District #22,Central
+75102.0,Da Nang,District #23,Central
+75109.0,Hoi An,District #23,Central
+75151.0,Kon Tum,District #23,Central
+75831.0,Phan Thiet,District #23,Central
+75840.0,Quang Ngai,District #23,Central
+75846.0,Tuy Hoa,District #23,Central
+75849.0,Tam Ky,District #23,Central
+75859.0,Dong Hoi,District #23,Central
+75939.0,Hue,District #23,Central
+79821.0,Pleiku,District #39,West
+79836.0,Ho Chi Minh City,District #39,West
+79837.0,Bien Hoa,District #39,West
+79838.0,Buon Ma Thuot,District #39,West
+79839.0,My Tho,District #39,West
+79847.0,Bac Lieu,District #39,West
+79849.0,Rach Gia,District #39,West
+79905.0,Da Lat,District #39,West
+79907.0,Vung Tau,District #39,West
+79911.0,Tra Vinh,District #39,West
+79912.0,Ben Tre,District #39,West
+80012.0,Tuy Hoa,District #20,Central
+80019.0,Phan Rang-Thap Cham,District #20,Central
+81334.0,Soc Trang,District #39,West
+84710.0,Buon Ma Thuot,District #38,West
+84714.0,Ho Chi Minh City,District #38,West
+84719.0,Rach Gia,District #38,West
+84720.0,Ben Tre,District #38,West
+84722.0,Ca Mau,District #38,West
+84733.0,Soc Trang,District #38,West
+84738.0,Bien Hoa,District #38,West
+84755.0,Da Lat,District #38,West
+84757.0,Can Tho,District #38,West
+84758.0,Long Xuyen,District #38,West
+84770.0,Pleiku,District #38,West
+84779.0,Vung Tau,District #38,West
+84781.0,Vinh Long,District #38,West
+84791.0,Tra Vinh,District #38,West
+89011.0,Bac Lieu,District #38,West
+89310.0,Soc Trang,District #35,West
+90001.0,Can Tho,District #37,West
+90002.0,Da Lat,District #37,West
+90004.0,Vinh Long,District #37,West
+90005.0,Ca Mau,District #37,West
+90007.0,My Tho,District #37,West
+90008.0,Pleiku,District #37,West
+90015.0,Bien Hoa,District #37,West
+90017.0,Buon Ma Thuot,District #37,West
+90019.0,Long Xuyen,District #37,West
+90028.0,Vung Tau,District #37,West
+90029.0,Tra Vinh,District #37,West
+90038.0,Ho Chi Minh City,District #37,West
+93201.0,My Tho,District #36,West
+93212.0,Bac Lieu,District #36,West
+93223.0,Rach Gia,District #36,West
+93227.0,Long Xuyen,District #36,West
+93232.0,Soc Trang,District #36,West
+93237.0,Pleiku,District #36,West
+93242.0,Can Tho,District #36,West
+93244.0,Ca Mau,District #36,West
+93267.0,Da Lat,District #36,West
+93271.0,Ben Tre,District #36,West
+93645.0,Ho Chi Minh City,District #36,West
+97007.0,Buon Ma Thuot,District #34,West
+97008.0,Vung Tau,District #34,West
+97014.0,Ho Chi Minh City,District #34,West
+97015.0,Bien Hoa,District #34,West
+97020.0,Ca Mau,District #34,West
+97049.0,Pleiku,District #34,West
